@@ -1,5 +1,8 @@
 # COVID-19-Trends-and-Economic-Impact-in-Nigeria-2020-
 This project analyzed COVID-19 case trends alongside economic factors like oil prices and reserves, highlighting key quarterly impacts and patterns.
+The following insights were uncovered from the analysis:
+
+**KEY INSIGHTS**
 
 The total confirmed cases for Nigeria in 2020 were 1,837, with 238 new cases reported. The highest surge in new cases occurred in March (162 cases).
  
@@ -11,7 +14,7 @@ Liquid reserves showed notable differences between Q1 (982 billion) and Q4 (106 
  
 The gross reserves remained relatively stable, totaling 1.433 billion naira, with slight variations across quarters.
  
-RECOMMENDATIONS
+**RECOMMENDATIONS**
  
 Strengthen public health interventions during periods of high case surges, such as increased testing and vaccination drives, especially in months with historically high transmission rates.
 
